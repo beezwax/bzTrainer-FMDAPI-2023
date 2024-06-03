@@ -1,4 +1,5 @@
-# bzTrainer-FMDAPI-2023
+# Beezwax FileMaker Data API Demo 2023
+packaged as bzTrainer-FMDAPI-2023
 
 ## Introduction
 Get started exploring FileMaker's Data API (DAPI) using REST and cURL.
@@ -10,7 +11,7 @@ This file sends REST requests to itself, and works as a demo and tutorial for FM
 This file also introduces the `Execute FileMaker Data API` script step. Check out `execute data api` as an alternative way to query the Data API.
 
 ## Quickstart
-The demo file should be hosted on FileMaker Server 2023 (v20.x or later) for full functionality.
+This tutorial file should be hosted on FileMaker Server 2023 (v20.x or later) for full functionality.
 
 1. Host this file on a FileMaker Server 2023 (v20.x or later)
 2. Enter the URL or IP address of your server. Example 192.168.1.50 or hostname.your-domain.com
