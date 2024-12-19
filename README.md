@@ -15,7 +15,7 @@ This tutorial file should be hosted on FileMaker Server 2023 (v20.x or later) fo
 
 1. Host this file on a FileMaker Server 2023 (v20.x or later)
 2. Enter the URL or IP address of your server. Example 192.168.1.50 or hostname.your-domain.com
-3. Enter the account name and password for the FileMaker user account that will access the API. The default for this file is already entered.
+3. Enter the account name and password for the FileMaker user account that will access the API. The default for this file is already entered (Account: admin Pwd: admin)
 4. Enter the file name you wish to access, without the .fmp12 extension (default is this file).
 
 Copyright © 2024 Beezwax Datatools, Inc.
